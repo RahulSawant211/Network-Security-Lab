@@ -1,5 +1,8 @@
 Network Security Lab: Device Configuration and Attack Simulation
+
+
 Project Overview
+
 This project involves creating and configuring a secure network using Cisco routers, switches, firewalls, PCs, and servers, with a simulated attack scenario. The task is based on a network diagram provided in a Day 1 instructional video and is executed using Cisco Packet Tracer. The primary focus of the lab is to establish a secure network environment while preparing for potential security breaches simulated by an "attacker" laptop.
 
 Objectives:
